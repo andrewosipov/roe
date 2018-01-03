@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'Supermolot';
+  src: url('../fonts/Supermolot.eot?#iefix') format('embedded-opentype'),  url('../fonts/Supermolot.otf')  format('opentype'),
+	     url('../fonts/Supermolot.woff') format('woff'), url('../fonts/Supermolot.ttf')  format('truetype'), url('../fonts/Supermolot.svg#Supermolot') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Supermolot-Light';
+  src: url('../fonts/Supermolot-Light.eot?#iefix') format('embedded-opentype'),  url('../fonts/Supermolot-Light.otf')  format('opentype'),
+       url('../fonts/Supermolot-Light.woff') format('woff'), url('../fonts/Supermolot-Light.ttf')  format('truetype'), url('../fonts/Supermolot-Light.svg#Supermolot-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Supermolot-Thin';
+  src: url('../fonts/Supermolot-Thin.eot?#iefix') format('embedded-opentype'),  url('../fonts/Supermolot-Thin.otf')  format('opentype'),
+	     url('../fonts/Supermolot-Thin.woff') format('woff'), url('../fonts/Supermolot-Thin.ttf')  format('truetype'), url('../fonts/Supermolot-Thin.svg#Supermolot-Thin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  }
+@font-face {
+  font-family: 'Supermolot-LightItalic';
+  src: url('../fonts/Supermolot-LightItalic.eot?#iefix') format('embedded-opentype'),  url('../fonts/Supermolot-LightItalic.otf')  format('opentype'),
+	     url('../fonts/Supermolot-LightItalic.woff') format('woff'), url('../fonts/Supermolot-LightItalic.ttf')  format('truetype'), url('../fonts/Supermolot-LightItalic.svg#Supermolot-LightItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Supermolot-Bold';
+  src: url('../fonts/Supermolot-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/Supermolot-Bold.otf')  format('opentype'),
+	     url('../fonts/Supermolot-Bold.woff') format('woff'), url('../fonts/Supermolot-Bold.ttf')  format('truetype'), url('../fonts/Supermolot-Bold.svg#Supermolot-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Supermolot-Black';
+  src: url('../fonts/Supermolot-Black.eot?#iefix') format('embedded-opentype'),  url('../fonts/Supermolot-Black.otf')  format('opentype'),
+	     url('../fonts/Supermolot-Black.woff') format('woff'), url('../fonts/Supermolot-Black.ttf')  format('truetype'), url('../fonts/Supermolot-Black.svg#Supermolot-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DroidSans';
+  src: url('../fonts/DroidSans.eot?#iefix') format('embedded-opentype'),  url('../fonts/DroidSans.woff') format('woff'), url('../fonts/DroidSans.ttf')  format('truetype'), url('../fonts/DroidSans.svg#DroidSans') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DroidSans-Bold';
+  src: url('../fonts/DroidSans-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/DroidSans-Bold.woff') format('woff'), url('../fonts/DroidSans-Bold.ttf')  format('truetype'), url('../fonts/DroidSans-Bold.svg#DroidSans-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circe-Regular';
+  src: url('../fonts/Circe-Regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/Circe-Regular.otf')  format('opentype'),
+	     url('../fonts/Circe-Regular.woff') format('woff'), url('../fonts/Circe-Regular.ttf')  format('truetype'), url('../fonts/Circe-Regular.svg#Circe-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circe-Bold';
+  src: url('../fonts/Circe-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/Circe-Bold.otf')  format('opentype'),
+	     url('../fonts/Circe-Bold.woff') format('woff'), url('../fonts/Circe-Bold.ttf')  format('truetype'), url('../fonts/Circe-Bold.svg#Circe-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circe-Light';
+  src: url('../fonts/Circe-Light.eot?#iefix') format('embedded-opentype'),  url('../fonts/Circe-Light.otf')  format('opentype'),
+       url('../fonts/Circe-Light.woff') format('woff'), url('../fonts/Circe-Light.ttf')  format('truetype'), url('../fonts/Circe-Light.svg#Circe-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Kraft';
+  src: url('../fonts/Kraft.eot?#iefix') format('embedded-opentype'),  url('../fonts/Kraft.otf')  format('opentype'),
+       url('../fonts/Kraft.woff') format('woff'), url('../fonts/Kraft.ttf')  format('truetype'), url('../fonts/Kraft.svg#Kraft') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 0px;
+}
+
+.flaticon-arrows:before { content: "\f100"; }
+.flaticon-bars:before { content: "\f101"; }
+.flaticon-check-symbol:before { content: "\f102"; }
+.flaticon-chrome:before { content: "\f103"; }
+.flaticon-close:before { content: "\f104"; }
+.flaticon-configuration-gears:before { content: "\f105"; }
+.flaticon-delete:before { content: "\f106"; }
+.flaticon-down-arrow:before { content: "\f107"; }
+.flaticon-facebook-logo:before { content: "\f108"; }
+.flaticon-file:before { content: "\f109"; }
+.flaticon-firefox:before { content: "\f10a"; }
+.flaticon-instagram-logo:before { content: "\f10b"; }
+.flaticon-interface:before { content: "\f10c"; }
+.flaticon-interface-1:before { content: "\f10d"; }
+.flaticon-keyboard-right-arrow-button:before { content: "\f10e"; }
+.flaticon-left-arrow-key:before { content: "\f10f"; }
+.flaticon-magnifying-glass:before { content: "\f110"; }
+.flaticon-mail:before { content: "\f111"; }
+.flaticon-map-marker-point:before { content: "\f112"; }
+.flaticon-menu-button:before { content: "\f113"; }
+.flaticon-money:before { content: "\f114"; }
+.flaticon-movie:before { content: "\f115"; }
+.flaticon-phone-call:before { content: "\f116"; }
+.flaticon-question:before { content: "\f117"; }
+.flaticon-rocket-ship:before { content: "\f118"; }
+.flaticon-safari-logo:before { content: "\f119"; }
+.flaticon-searching-magnifying-glass:before { content: "\f11a"; }
+.flaticon-settings:before { content: "\f11b"; }
+.flaticon-social:before { content: "\f11c"; }
+.flaticon-sofa:before { content: "\f11d"; }
+.flaticon-support:before { content: "\f11e"; }
+.flaticon-technology:before { content: "\f11f"; }
+.flaticon-user:before { content: "\f120"; }
+.flaticon-vk-social-network-logo:before { content: "\f121"; }
+.flaticon-worldwide:before { content: "\f122"; }
+.flaticon-yes-button-circular-outline:before { content: "\f123"; }
+.flaticon-youtube-logo:before { content: "\f124"; }
+
